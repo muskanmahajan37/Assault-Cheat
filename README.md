@@ -1,7 +1,7 @@
 # Assault-Cheat
 
 * Simple Cheat for assault Cube.
-* create it for fun nothing else .
+* i create it for fun nothing else .
 * The Source code is Absolutely untidy (i will improve and  add more features in the cheat if i see any interaction).
 
 # Futures:
