@@ -1,8 +1,8 @@
 # Assault-Cheat
 
 * Simple Cheat for assault Cube.
-
-* The Source code is Absolutely untidy .
+* create it for fun nothing else .
+* The Source code is Absolutely untidy (i will improve and  add more features in the cheat if i see any interaction).
 
 # Futures:
 * Unlimited Health  And  Ammo + High Jump ...
