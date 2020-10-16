@@ -2,7 +2,7 @@
 
 *Simple Cheat for assault Cube.
 
-*The Source code is Absolutely untidy 
+*The Source code is Absolutely untidy .
 
 # Futures:
 *Unlimited Health  And  Ammo + High Jump ...
